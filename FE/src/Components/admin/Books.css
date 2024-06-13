@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.body {
+    text-align: center;
+    max-width: 1900px;
+    overflow: hidden;
+    margin-left: 2px;
+}
+
+#view {
+    margin-right: 10px;
+}
